@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901894004924",
+    "project_id": "treasure-final",
+    "storage_bucket": "treasure-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901894004924:android:50b34630fff79cb83e30b9",
+        "android_client_info": {
+          "package_name": "com.example.treasure_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxuo3WJhPbxYWnjNOrA6RqhZ8tubUO2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
